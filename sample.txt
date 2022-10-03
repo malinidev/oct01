@@ -1,0 +1,2 @@
+o
+hi this is new file creation sample.txt
